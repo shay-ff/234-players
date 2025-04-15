@@ -1,0 +1,9 @@
+        single player       |            duo        |           trio           |         squad            |           team
+        wordle                  color-wars                    flag-tank                 flag-tank                     cat-grab
+        crosswords              ludo                          ludo                      ludo                          ludo
+        cat-grab                flag-tank (3 maps)            sumo                      sumo                          sumo
+        chicken-race            sumo                          cat-grab                  chicken-grab                  flag-tank
+                                chicken-race                  chicken-race              cat-grab
+                                cat-grab         
+
+

@@ -1,7 +1,10 @@
+import Link from "next/link"
 export default function Solo() {
     return (
         <div>
-            Solo
+            <Link href={'/games/color-wars'}>
+                color-war
+            </Link>
         </div>
     )
 }
